@@ -1,12 +1,9 @@
-My first MD
-=============
+# My Notes
 
-主要是用来检查
+Some notes everyday.
 
-检查方法
--------------
-* first 
+## FastAPI
+
+* deploy
 * second
 * third
-
-注意
