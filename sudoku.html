@@ -415,6 +415,24 @@
           <td><input id="cell-80" type="text" /></td>
         </tr>
       </table>
+      <datalist id="digits">
+        <option value="">
+        <option value="1">
+        <option value="2">
+        <option value="3">
+        <option value="4">
+        <option value="5">
+        <option value="6">
+        <option value="7">
+        <option value="8">
+        <option value="9">
+      </datalist>
+    </div>
+    <div>
+      total time: <span id="time">0</span>
+      total cells: <span id="cells">0</span>
+      total 0
+
     </div>
 
     <script type="text/javascript" src="sudoku.js"></script>
@@ -431,7 +449,8 @@
             document.getElementById("cell-" + i).readOnly = true;
           }else{
             /// this cell can input but only from 1 to 9
-            
+            /// set input list to digits
+            document.getElementById("cell-" + i).setAttribute("list", "digits");
           }
         }
       }
@@ -462,6 +481,8 @@
           displaySudoku(difficulty);
         })
       });
+
+
     </script>
   </body>
 </html>
