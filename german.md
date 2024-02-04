@@ -13,6 +13,7 @@
   - Es ist sehr kalt
   - Es ist bitterkalt.
   - Es ist eiskalt.
+
 ## 形式严峻 
   - Die Lage bleibt angespannt.
   - wir können uns immer noch nicht entspannen.
@@ -62,10 +63,12 @@
 
 ## wobei 在口语中的用法  
   在口语中，"wobei" 通常用于表示解释或补充说明，类似于英语中的 "whereby"、"while" 或 "in which." 这个词可以连接两个句子或短语，使得后者对前者进行解释或补充说明。以下是一些例句：
+  
   1. **补充说明 (Providing additional information):**
     
     * Beispiel: Ich arbeite von zu Hause aus, wobei ich flexiblere Arbeitszeiten habe. (I work from home, whereby I have more flexible working hours.)
-2. **表示对比 (Indicating contrast):**
+  
+  2. **表示对比 (Indicating contrast):**
     
     * Beispiel: Er sagte, er sei glücklich, wobei sein Gesicht jedoch eher besorgt aussah. (He said he was happy, while his face looked rather concerned.)
 
