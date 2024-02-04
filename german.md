@@ -151,14 +151,15 @@
 
 ## 拉链卡住了 。
   - Ein Kleidungsstück hat sich im Reißverschluss verfangen.  
-  - Der Reißverschluss klemmt
-  1. **"Die Reißverschluss hakt."**
-    * 这里的 "hakt" 表示卡住、阻塞。
-  2. **"Die Reißverschluss kriegt 'nen Widerstand."**
-    * 这种表达方式带有一些口头化，直译为 "拉链遇到了阻力"。
-  3. **"Der Reißverschluss geht nicht auf."**
-    * 直译为 "拉链打不开"，强调拉链无法打开。
-
+  - Der Reißverschluss klemmt  
+  
+  1. **"Die Reißverschluss hakt."**  
+    * 这里的 "hakt" 表示卡住、阻塞。 
+  2. **"Die Reißverschluss kriegt 'nen Widerstand."**  
+    * 这种表达方式带有一些口头化，直译为 "拉链遇到了阻力"。  
+  3. **"Der Reißverschluss geht nicht auf."** 
+    * 直译为 "拉链打不开"，强调拉链无法打开。  
+ 
 ## 脚受伤了 
   - Mein Fuß ist verstaucht. 
   - ich habe meinen Fuß verstaucht.  
@@ -214,4 +215,3 @@
   - ich wurde von vielen Mücken gestochen. 
   - Und es ist sehr dick geworden. 起了很多包
   - ich wurde sehr oft gestochen. 
-  
