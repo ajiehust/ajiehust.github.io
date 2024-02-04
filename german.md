@@ -7,6 +7,7 @@
 ## 这没用， 没有意义
   - Das bringt nichts 东西坏了， 修不好
   - Das bringt nichts. 学的东西没有意义，没用
+
 ## 冷 
   - Es ist kalt.
   - Es ist sehr kalt
@@ -15,6 +16,7 @@
 ## 形式严峻 
   - Die Lage bleibt angespannt.
   - wir können uns immer noch nicht entspannen.
+
 ## reißen
   - ich reiße ein Blatt auseinander
   - Vom Schlafzimmer aus hören ich ein reißenden Fluss.
@@ -80,6 +82,5 @@
   * Sie hat die Prüfung auf die leichte Schulter genommen und nicht genug gelernt. (她对考试掉以轻心，没有认真学习。这里，“auf die leichte Schulter nehmen” 表示她对考试过于轻视，没有给予足够的重视。) 
 
 ## 我们三个人。 
+  - wir sind zu dritt.  
 
-
-  
