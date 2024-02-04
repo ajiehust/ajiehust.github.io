@@ -65,11 +65,9 @@
   在口语中，"wobei" 通常用于表示解释或补充说明，类似于英语中的 "whereby"、"while" 或 "in which." 这个词可以连接两个句子或短语，使得后者对前者进行解释或补充说明。以下是一些例句：
   
   1. **补充说明 (Providing additional information):**
-    
     * Beispiel: Ich arbeite von zu Hause aus, wobei ich flexiblere Arbeitszeiten habe. (I work from home, whereby I have more flexible working hours.)
   
   2. **表示对比 (Indicating contrast):**
-    
     * Beispiel: Er sagte, er sei glücklich, wobei sein Gesicht jedoch eher besorgt aussah. (He said he was happy, while his face looked rather concerned.)
 
 在口语中，"wobei" 的使用可能会相对灵活，具体语境会决定其精确的含义。 
@@ -163,4 +161,57 @@
 
 ## 脚受伤了 
   - Mein Fuß ist verstaucht. 
-  - ich habe meinen Fuß verstaucht. 
+  - ich habe meinen Fuß verstaucht.  
+
+
+## 没有事干了 
+  - Es gibt einiges zu tun.
+  - Während viele Silvester feiern gibt es für die Feuerwehr einiges zu tun. 
+
+## 数值增加了。 
+  - Die Zahl der Kleinkinder ist gestiegen. 
+  - Die Zahl steigt sich um 5% auf 100. 
+  - Die Zahl stieg leicht. 数量有所增加。 
+
+## 遗迹 
+  - Die Ruine
+
+## 自己的错，怨不得别人
+  - Selber Schuld. 多用于口语， 自己所自己
+
+## 新闻
+  - Eine Frau ist beim Joggen von einem Hund zu Tode gebissen worden
+  - Der tödlich Vorfall hat sich in Österreich ereignet
+
+## 凹陷，凸起鼓包，塌陷， 压陷
+  - Delle 比如车上装了一个坑
+  - Beule. 鼓包， 头上的包
+  - eingesunken， 比如马路塌陷
+  - eingedrückt. 压下去一个坑
+
+## 看错了
+  - ich habe mich verlesen. 
+  - ich habe mich verhören. 
+  - ich habe mich verlaufen.
+  - ich habe mich vertippen. 
+  - ich habe mich verfahren. 
+  - ich habe mich vergriffen. 
+  - ich habe mich vertauscht. 
+  - ich habe mich verplant. 
+
+## 不能参加
+  - Tom kann morgen leider nicht am Training teilnehmen. 
+  - ich hoffe er wird Mittworch wieder fit. Allerdings kann ich nicht ausschließen, dass er am Mittwoch nicht mitmachen kann .
+
+## 因私人的事情离不开
+  - ich bin privat verhindert. 
+  - ich bin aus einem private Grund verhindert.  比较正式的。
+
+## 在外面回复很慢。
+  - Heute bin ich unterwegs und kann nicht schnell antworten. 
+
+## 天热被蚊子咬了很多包
+  - ich wurde von vielen Mücken gestochen. 
+  - Und es ist sehr dick geworden. 起了很多包
+  - ich wurde sehr oft gestochen. 
+  
