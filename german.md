@@ -86,4 +86,81 @@
 
 ## 我们三个人。 
   - wir sind zu dritt.  
+  - wir sind zu dritt. Wenn du kommst, dann sind wir zu viert.  
 
+## 物廉价美 Schnäppchen.  
+  - Nicht alle Angebote sind ein Schnäppchen.  
+
+## 病了希望明天好一点。  
+  - Ich bin krank, ich hoffe, mir geht es morgen besser. 
+  - Ich hoffe, ich werde morgen wieder gesund.
+
+## 搞定了，成功了。  
+  - ich habe es geschfft. 
+  - Mir ist es gelungen.  强调个人的成功
+  - Mir ist es gelungen. am Freitag eien Termin zu bekommen. 
+  - Es ist geschafft!  
+  - Die Aufgabe ist erledigt. 
+
+## 很穷和节约。  
+  - Viele Menschen müssen im Ruhestand jeden Cent zweimal umdrehen. 
+
+
+## 参观说Zahlen. 或者 Bezahlen.   
+  - Zahlen bitte. Kann ich bitte zahlen. Die Rechnung bitte. 
+  - Ich möchte die Cola bezahlen. 
+  1. **Zahlen:**
+    * "Zahlen" 是一个动词，表示支付或付款。它通常用于描述简单的支付行为，而不涉及具体的商品或服务。例如：
+        * "Ich zahle die Rechnung."（我支付账单。） 
+  2. **Bezahlen:**
+    * "Bezahlen" 也是一个动词，但它更具体地表示为购买商品或服务而支付费用。这个词强调的是为了获取某物而支付。例如：
+        * "Ich bezahle das Essen."（我支付这顿饭。）
+  因此，"zahlen" 更广泛地表示支付，而 "bezahlen" 更侧重于购买特定的东西时的支付行为。 
+
+## 脚麻了，脚抽筋了  
+  - Mein Füß ist eingeschaffen.  脚麻了
+  - Mein Fuß hat einen Krampf bekommen. 
+  - Ich habe einen Krampf an meinem Fuß. 
+
+## 别人说的我不接受 
+  - Das nehme ich nicht an. 
+  - Das werden ich nicht hinnehmen. 
+  - Ich akzepttiere das nicht. 
+
+## 口算 
+  - Kopfrechnen.
+  - Kopfrechnenaufgaben. 
+
+## 活该 
+  - Pech. 活该， 自找的，一般朋友之间。
+  - Selber Schuld
+    * 当某人由于自己的不谨慎或错误而遭受负面后果时，别人可能会用这个短语表示“活该”。
+  1. **Dann hast du Pech gehabt!**
+    * 直译为“那你就倒霉了！”这种表达方式带有一种冷淡或不关心的语气。
+  2. **Selbst schuld, wenn man ...**
+    * 直译为“自己的错，如果一个人...”表示在某种情况下，由于某人的行为而导致负面后果。
+  3. **Das kommt davon!**
+    * 直译为“这是它的结果！”或“这是应有的后果！”表示某人的不好行为导致了不好的结果。
+
+
+## 流感， 被传染了
+  - Tom hat Grippe, Kevin hat es auch erwischt. 
+
+
+## 我错过什么了  
+  - Über was redet ihr. 
+  - Habe ich was verpasst? 
+
+## 拉链卡住了 。
+  - Ein Kleidungsstück hat sich im Reißverschluss verfangen.  
+  - Der Reißverschluss klemmt
+  1. **"Die Reißverschluss hakt."**
+    * 这里的 "hakt" 表示卡住、阻塞。
+  2. **"Die Reißverschluss kriegt 'nen Widerstand."**
+    * 这种表达方式带有一些口头化，直译为 "拉链遇到了阻力"。
+  3. **"Der Reißverschluss geht nicht auf."**
+    * 直译为 "拉链打不开"，强调拉链无法打开。
+
+## 脚受伤了 
+  - Mein Fuß ist verstaucht. 
+  - ich habe meinen Fuß verstaucht. 
