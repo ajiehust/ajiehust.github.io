@@ -131,8 +131,9 @@
 
 ## 活该 
   - Pech. 活该， 自找的，一般朋友之间。
-  - Selber Schuld
-    * 当某人由于自己的不谨慎或错误而遭受负面后果时，别人可能会用这个短语表示“活该”。
+  - Selber Schuld  
+    * 当某人由于自己的不谨慎或错误而遭受负面后果时，别人可能会用这个短语表示“活该”。 
+    
   1. **Dann hast du Pech gehabt!**
     * 直译为“那你就倒霉了！”这种表达方式带有一种冷淡或不关心的语气。
   2. **Selbst schuld, wenn man ...**
@@ -152,7 +153,7 @@
 ## 拉链卡住了 。
   - Ein Kleidungsstück hat sich im Reißverschluss verfangen.  
   - Der Reißverschluss klemmt  
-  
+
   1. **"Die Reißverschluss hakt."**  
     * 这里的 "hakt" 表示卡住、阻塞。 
   2. **"Die Reißverschluss kriegt 'nen Widerstand."**  
@@ -214,4 +215,38 @@
 ## 天热被蚊子咬了很多包
   - ich wurde von vielen Mücken gestochen. 
   - Und es ist sehr dick geworden. 起了很多包
-  - ich wurde sehr oft gestochen. 
+  - ich wurde sehr oft gestochen.  
+
+## geworden oder worden  
+  - geworden: partizip II werden (aktiv)
+    - Gestern bin ich 30 geworden!  
+    - Du bist aber groß geworden. 
+    - Deine Wohnung ist schön geworden! 
+    - Bist du jetzt klüger geworden?   
+  - worden: partizip II werden (passiv)
+    - Das Haus ist solide gebaut worden. 
+    - Er ist von allen geliebt worden. 
+    - Das Auto ist repariert worden.   
+
+## *Sich freuen auf* oder *Sich freuen über* 
+  - ich freue mich auf etwas , was kommt.  
+    - Morgen gehe ich ins Kino. Ich freue mich darauf! 
+    - ich freue mich auf das Kino. Ich freue mich darauf.  
+    - Worauf freuest du dich ?
+    - Im sommer fahre ich auf Urlaub. ich freue mich darauf. 
+  - ich freue mich über etwas , was schon passiert ist.  
+    - ich freue mich auf das Kino. Ich freue mich darauf. 
+    - ich freue mich über die Prüfung. Ich freue mich darüber. 
+    - ich habe ein günstiges Hotel gefunden. Ich freue mich darüber! 
+    - Worüber freuest du dich ? 
+
+## nicht oder nichts  
+  - "nicht" ist die Negation von Verben   
+    - ich rauche nicht 
+    - ich tanze nicht oft. 
+    - ich kann nicht gut singen. 
+  - "nichts" ist die 
+    - ich sehe viele Menschen, aber ich kann dich nicht sehen. == Ich sehe nichts 
+    - ich höre viele Menschen, aber ich kann dich nicht hören. == ich höre nichts 
+    - (Das) macht nichts.  == that doesn't matter. 
+    - (Es ist ) nichts passierts . == nothing happended. 
