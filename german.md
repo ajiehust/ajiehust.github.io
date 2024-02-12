@@ -249,4 +249,53 @@
     - ich sehe viele Menschen, aber ich kann dich nicht sehen. == Ich sehe nichts 
     - ich höre viele Menschen, aber ich kann dich nicht hören. == ich höre nichts 
     - (Das) macht nichts.  == that doesn't matter. 
+      - Hast du das nicht verstanden ? Das machts nichts. Schau es dir einfach noch einmal an. 
     - (Es ist ) nichts passierts . == nothing happended. 
+
+
+## vor oder vorn(e) 
+  - vor, hinter, über, unter + Objekt. 
+    - Das Sofa steht vor dem Tisch. 
+    - Die Sessel stehen hinter dem Tisch. 
+    - Die Lampe hängt über dem Tisch. 
+    - Der Teppich liegt unter dem Tisch. 
+  - vorn(e), hinten, oben, unten   - (ohne) Objekt. 
+    - Das Sofa steht vorn(e). 
+    - Die Sessel stehen hinten.  
+    - Die Lampe hängt oben. 
+    - Der Teppich liegt unten. 
+
+## Mir oder Mich 
+  - Person + Objekt: mir + Objekt. 
+    - Ich rasiere mir die Beine 
+    - Ich wasche mir die Hände 
+    - Ich trochne mir mein Gesicht ab. 
+    - Ich ziehe mich an. 
+    - ich kämme mich.
+    - ich schminke mich. 
+    - ich sehe mich an. 
+  - Person ohne Objekt: akk  
+    - Ich rasiere mich. 
+    - Ich wasche mich 
+    - Ich trockne mich ab. 
+    - Ich ziehe mir den Pullover an. 
+    - ich kämme mir die Haare.
+    - Ich schminke mir die Augen. 
+    - ich sehe mir mein Gesicht an. 
+
+## Zeitangaben auf: -lich  
+  - jede Sekunde: sekündlich  
+  - jede Minute: minütlich 
+  - jede Stunde: stündlich 
+  - jeden Tag: täglich. 
+    - Du kanst täglich dein Deutsch verbessern.    
+  - jede Woche: wöchentlich 
+    - ich laufe wöchentlich 60 km. 
+  - jeden Monat: monatlich  
+    - ich bezahle monatlich meine Miete  
+  - jedes Jahr: jährlich 
+  - jedes Vierteljahr: vierteljährlich 
+    - ich bezahle vierteljährlich meinen Strom. 
+  - jedes Halbjahr: halbjährlich. 
+
+
