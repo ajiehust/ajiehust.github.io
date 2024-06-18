@@ -1,5 +1,15 @@
 # German
 
+## 纠结 
+  - ich bin hin- und hergerissen.
+  - ich bin hin- und hergerissen zwischen einer Reise nach Deutschland oder nach Frankreich.
+  - ich bin zerrissen.
+  - ich bin zerrissen zwischen Hot Pot oder Salat zum Mittag.
+  - ich schwanke noch.
+  - ich bin noch unentschlossen. 
+  - ich bin noch unentschlossen, was ich heute essen soll. 
+
+
 ## 佩服 
   - Respekt
   - Ich habe Respekt vor dir.
