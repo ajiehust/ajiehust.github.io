@@ -9,10 +9,10 @@ Some notes everyday.
 * third
 
 
-@startuml
-
-skin rose
-
-Bob -> Alice: Hello!
-
-@enduml
+```plantuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+   
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: Another authentication Response
+```
