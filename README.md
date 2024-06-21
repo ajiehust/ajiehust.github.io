@@ -7,3 +7,12 @@ Some notes everyday.
 * deploy
 * second
 * third
+
+
+@startuml
+
+skin rose
+
+Bob -> Alice: Hello!
+
+@enduml
