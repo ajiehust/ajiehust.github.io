@@ -611,7 +611,7 @@ Definition/Translation: to make it clear to someone that s/he should not bother 
 ## 44 mfg
 
 ## 45 lg
-<br>
+
 ## 50 More German Slang Words
 
 | German Slang Word | Literal Translation | Slang Meaning | Example Sentence (German) | Example Sentence (English) |
@@ -666,9 +666,8 @@ Definition/Translation: to make it clear to someone that s/he should not bother 
 | Zaster  | coin | money | Gib mir ein bisschen Zaster für den Bus.  | Give me some coin for the bus. |
 | Zoff  | brawl | trouble or conflict | Gestern gab es Zoff in der Kneipe.  | There was trouble in the pub yesterday. |
 | zulabern  | to chibber on | to chibber on | Kennst du diese Leute, die einfach zulabern?  | Do you know those people who just prattle on and on? |
-<br>
-<br>
-<br>
+
+
 ## 54 More German Slang Expressions
 
 | German Slang Expression | Literal Translation | Slang Meaning | Example Sentence (German) | Example Sentence (English) |
@@ -676,7 +675,7 @@ Definition/Translation: to make it clear to someone that s/he should not bother 
 | Alle Daumen drücken!  | Press all thumbs! | Keep your fingers crossed! | Ich drücke dir alle Daumen für die Prüfung.  | I'll keep all my fingers crossed for your exam. |
 | Alles easy!  | Everything's easy! | Everything is fine! | Mach dir keine Sorgen, alles easy!  | Don't worry, everything's easy! |
 | Auf dem Schlauch stehen  | To stand on the hose | To be clueless or confused | Bei dieser Aufgabe stehe ich total auf dem Schlauch.  | I'm totally lost with this task. |
-| auf etwas  / <i>[jemanden stehen ](https://www.fluentu.com/blog/german/wp-content/uploads/sites/5/2023/12/v1-c9315ef8839862af65ba17f5d3b8947c-neural-Vicki.mp3)</i> | to be into something, someone | affinity for a thing or person | Ich steh’ auf französische Filme.  | I'm into French movies. |
+| auf etwas  / jemanden stehen  | to be into something, someone | affinity for a thing or person | Ich steh’ auf französische Filme.  | I'm into French movies. |
 | Augen auf!  | Eyes open! | Stay alert! | Pass auf dich auf, Augen auf!  | Take care of yourself, stay alert! |
 | angst und bange sein  | to have the jitters | to feel anxious, nervous or stressed | Mir war angst und bange vor der Prüfung.  | I was really stressed before the exam. |
 | Zicken machen  | To make goats | to cause trouble or problems | Mach heute Abend bloß keine Zicken!  | Just don't cause any trouble tonight! |
@@ -686,7 +685,7 @@ Definition/Translation: to make it clear to someone that s/he should not bother 
 | Eier haben  | to have eggs / balls | to be brave or courageous | Er hat wirklich Eier, das zu tun.  | He's really brave to do that. |
 | Einen Kater haben  | To have a tom cat | To have a hangover | Ich habe gestern zu viel getrunken und jetzt habe ich einen Kater.  | I drank too much yesterday, and now I have a hangover. |
 | Warum ist die Banane krumm?  | Why is a banana bent? | How long is a piece of string? | Warum ist die Banane krumm? Woher soll ich das wissen?  | How long is a piece of string? How am I supposed to know that? |
-| etwas  / <i>[jemanden nicht ab ](https://www.fluentu.com/blog/german/wp-content/uploads/sites/5/2023/12/v1-19653f14abc54130733eb365b6db7fbf-neural-Vicki.mp3)</i> / <i>[können ](https://www.fluentu.com/blog/german/wp-content/uploads/sites/5/2023/06/v1-f6080be0cbaa5ccd0612f75aa632bc38-neural-Vicki.mp3)</i> | to not be able to stand something, someone | strong dislike for something or someone | Sie kann Peter nicht ab.  | She can't stand Peter. |
+| etwas  /jemanden nicht ab | to not be able to stand something, someone | strong dislike for something or someone | Sie kann Peter nicht ab.  | She can't stand Peter. |
 | Ey, Alter!  | Hey, old one! | Hey, dude! | Ey, Alter! Wie geht's?  | Hey, dude! How's it going? |
 | Flausen im Kopf  | fluffy ideas | crazy or silly ideas | Er hat immer Flausen im Kopf.  | He always has crazy ideas. |
 | Geht klar!  | Goes clear! | Got it! | Kannst du das erledigen? - Geht klar!  | Can you take care of that? - Sure! |
@@ -814,7 +813,7 @@ Who knows? You might need those, too.
 
 ### **General German slang phrases**
 
-*Hallöchen, was geht?* There are countless slang words in German, even just for saying hello. Depending on the region and who you speak to, you’ll hear [different German greetings ](https://www.berlitz.com/blog/how-to-say-hello-german-greetings)everywhere you go.
+*Hallöchen, was geht?* There are countless slang words in German, even just for saying hello. Depending on the region and who you speak to, you’ll hear everywhere you go.
 
 Do *you* actually say hello when you meet a friend? It’s much more common to use any phrase from “hi” or “hey” to “yo” and “sup”. Yet, most German learners don’t actually know many German greetings, which is why we listed them for you, along with some other handy colloquial phrases you might need in a casual conversation.
 
@@ -874,7 +873,7 @@ There are many more though. So we have collected some more ways to say *cool* 
 | *Fett* | [fɛt] | Fat |
 | *Hammer* | [ˈhamɐ] | Hammer |
 | *Super* | [ˈzuːpɐ] | Super |
-<br>
+
 ## German expressions
 
 Some of these are very similar to their English counterparts. Others are rather unique
@@ -1136,7 +1135,7 @@ Finally, this funny German slang word translates literally as "twilight", howeve
 
 Er is ein zwielichtigen Kerl - He is a shady dude
 
-<br>
+
 ## **Other German Slang Phrases**
 
 Once you've mastered the basics, it's time to elevate your German slang game. Here are some of the best slang phrases to try out:
