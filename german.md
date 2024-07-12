@@ -464,7 +464,7 @@ Definition/Translation: to make it clear to someone that s/he should not bother 
 
 ## Was du nicht sagst!
 
-* Translation: You don’t say
+* Translation: You don’t say. 你不说我也知道，或者是不是以为我不知道
 
 ## das gibt’s (doch) nicht!
 
