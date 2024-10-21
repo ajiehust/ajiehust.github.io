@@ -167,3 +167,12 @@ Eine Tablette einnehmen --> to take a tablet.
 Einen Verban anlegen --> To apply a bandage. 
 Eine Salbe auftragen --> Apply an ointment
 Das Fieber messen --> To take the temperature. 
+
+
+## 22 
+Die Wäsche  --> the laundry. 
+          --> Aufhängen  --> to hang 
+          --> abhängen   --> to take down 
+          --> zusamenlegen  --> to fold 
+          --> stapeln   --> to stack 
+          --> Einräumen --> to put away. 
