@@ -98,4 +98,72 @@ auf hängen
 
 
 ## 13  
+ich habe Durst  --> Ich bin durstig
+ich habe Hunger --> Ich bin hungrig
+ich habe Angst  --> Ich bin ängstlich. 
+Ich habe Geduld  --> ich bin geduldig
+ich habe Mut --> ich bin mutig.  
 
+## 14  
+In die Wange Keifen --> i pinch someone's cheek 
+Eine Backpfeife geben  --> to slap someone's face
+Mit dem Fuß tretten --> to kick 
+ein Bein stellen --> to trip someone
+schnipsen --> to snap 
+
+
+## 15 
+ich bin zu Hause angekommen  --> I arrived home 
+ich löse die Schleife auf --> I untie the bow.  
+Ich zeihe mir die Schuhe aus --> i take off my shoes 
+ich lege die Schlüssel ab. --> I put down my key. 
+ich lege mich hin --> I'm lying down. 
+
+## 16  
+ich gehe vorwärts  --> I go forwords. 
+ich gehe rückwärts --> I go backwards. 
+ich gehe seitwärts  --> I go sideways. 
+ich gehe aufwärts --> I go upwards. 
+ich gehe abwärts --> I go downwards. 
+
+
+## 17 
+A2                   -->             B2
+nie                                  kein einziges Mal
+selten                               gelegentlich.
+manchmal                             hin und wieder. 
+oft                                  häufig 
+meistens                             in der Regel. 
+immer                                jedes Mal. 
+
+## 18 
+ich sitze an dem Tisch.  --> i am sitting at the table. 
+ich bin auf der Tisch    --> I am on the table. 
+ich bin unter dem Tisch  --> I am under the table. 
+Ich bin vor dem Tisch    --> I am in front of the table. 
+Ich bin hinter dem Tisch --> I am behind the table 
+
+
+## 19 
+einschenken/ verschütten --> to pour in/ to spill 
+ziehen / schieben  --> to pull / to push 
+fallen lassen / aufheben  --> to drop /to pickup 
+aufklappen / zuklappen --> to open up/ fold shut 
+
+
+## 20
+ich stehe vor dem Aufzug --> I am standing in front of the elevator!
+Die Aufzugtür öffnet sich  --> The door opens. 
+Ich gehe rein --> I walk in
+Ich fahre nach oben --> i go up. 
+Ich fahre nach unten --> I go down. 
+Ich gehe raus --> I walk out. 
+Die Tür schließt sich  --> the door closes 
+
+
+## 21 
+Tropfen einträufeln --> to instill drops 
+Eine Tablette einnehmen --> to take a tablet. 
+Einen Verban anlegen --> To apply a bandage. 
+Eine Salbe auftragen --> Apply an ointment
+Das Fieber messen --> To take the temperature. 
